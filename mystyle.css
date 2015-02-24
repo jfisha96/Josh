@@ -7,7 +7,7 @@ h1		{
 	text-align: center;
 }
 h2 		{
-	font-size: 25px;
+	font-size: 20px;
 	font-family: "times new roman";
 	text-align: center;
 	color: #006600;
@@ -16,6 +16,6 @@ p  		{
 	font-size: 18px;
 	font-family: "times new roman";
 }
-ol 		{
+form	{
 	background-color: #CCFFFF;
 }
