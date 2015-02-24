@@ -1,0 +1,18 @@
+h1 {
+		font-size: 40px;
+		font-family: arial;
+		text-align: center;
+}
+h2 {
+		font-size: 25px;
+		font-family: "times new roman";
+		text-align: center;
+		color: #006600;
+}
+p  {
+		font-size: 18px;
+		font-family: "times new roman";
+}
+ol {
+		background-color: #CCFFFF;
+}
