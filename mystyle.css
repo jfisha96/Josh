@@ -12,9 +12,10 @@ h2 		{
 	text-align: center;
 	color: #006600;
 }
-p  		{
+p#p1 	{
 	font-size: 18px;
 	font-family: "times new roman";
+	font-weight: bold;
 }
 form	{
 	background-color: #CCFFFF;
