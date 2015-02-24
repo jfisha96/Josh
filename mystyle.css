@@ -31,7 +31,7 @@ th 		{
 	text-align: left;
 }
 table tr:nth-child(odd) {
-    background-color: grey;
+    background-color: gainsboro;
 }
 table tr:nth-child(even) {
     background-color: snow;
