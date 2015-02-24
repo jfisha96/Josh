@@ -1,18 +1,21 @@
-h1 {
-		font-size: 40px;
-		font-family: arial;
-		text-align: center;
+body 	{
+	background-color: snow;
 }
-h2 {
-		font-size: 25px;
-		font-family: "times new roman";
-		text-align: center;
-		color: #006600;
+h1		{
+	font-size: 40px;
+	font-family: arial;
+	text-align: center;
 }
-p  {
-		font-size: 18px;
-		font-family: "times new roman";
+h2 		{
+	font-size: 25px;
+	font-family: "times new roman";
+	text-align: center;
+	color: #006600;
 }
-ol {
-		background-color: #CCFFFF;
+p  		{
+	font-size: 18px;
+	font-family: "times new roman";
+}
+ol 		{
+	background-color: #CCFFFF;
 }
