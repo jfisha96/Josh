@@ -21,7 +21,7 @@ form	{
 	background-color: #CCFFFF;
 }
 table 	{
-	width: 100%;
+	width: 50%;
 }
 table, th, td {
 	border: 1px solid black;
@@ -30,9 +30,11 @@ table, th, td {
 th 		{
 	text-align: left;
 }
+/* Odd table rows are colored grey */
 table tr:nth-child(odd) {
     background-color: gainsboro;
 }
+/* Even table rows are white */
 table tr:nth-child(even) {
     background-color: snow;
 }
@@ -57,4 +59,8 @@ ul#menu li a {
 ul#menu li a:hover {
     color: white;
     background-color: black;
+}
+#rbc	{
+	width: 123px;
+	height: 160px;
 }
