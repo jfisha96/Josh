@@ -47,11 +47,11 @@ table, th, td {
     text-align: center;
 }
 /* Odd table rows are colored grey */
-table tr:nth-child(odd) {
+table#bank-table tr:nth-child(odd) {
     background-color: gainsboro;
 }
 /* Even table rows are white */
-table tr:nth-child(even) {
+table#bank-table tr:nth-child(even) {
     background-color: snow;
 }
 ul#menu {
