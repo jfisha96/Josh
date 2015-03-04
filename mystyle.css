@@ -37,6 +37,7 @@ h2 		{
 }
 form	{
 	background-color: #CCFFFF;
+	float: left;
 }
 table 	{
 	width: 100%;
@@ -83,4 +84,7 @@ ul#menu li a:hover {
 }
 address {
 	text-align: center;
+}
+.radio-bank {
+	margin-left: 2.5em;
 }
